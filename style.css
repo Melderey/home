@@ -1,0 +1,28 @@
+html {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+
+  color: #212529;
+}
+
+td,
+th {
+  padding: 0.75rem;
+  border-top: 1px solid #dee2e6;
+}
+
+th {
+  border-bottom: 2px solid #dee2e6;
+}
+
+caption {
+  margin-top: 25px;
+
+  font-size: 0.7em;
+  text-align: right;
+
+  caption-side: bottom;
+}
